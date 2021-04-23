@@ -1,0 +1,42 @@
+<hr>
+<h1>Transport System</h1>
+<br>
+Transport system is the means by which materials are moved ('transported') from exchange surface(s) to cells located throughout the organism. Not all individual cells require the many different types of materials carried by a transport system. The circulatory system is the body's transport system that is made up of a group of organs that transport blood throughout the body. The circulatory system consists of three independent systems that work together:
+<ul>
+    <li>HEART(CARDIOVASCULAR)</li>
+    <li>LUNGS(PULMONARY)</li>
+    <li>BLOOD VESSELS(SYSTEMIC)</li>
+</ul>
+The system is responsible for the flow of blood, nutrients, oxygen and other gases, and as well as hormones to and from cells.
+<hr>
+<h1>MATERIALS FOR TRANSPORT</h1>
+<ul>
+    <li>OXYGEN</li>
+    <li>CARBON IV OXIDE</li>
+    <li>HORMONES</li>
+    <li>DIGESTED FOOD</li>
+    <li>NUTRIENTS</li>
+    <li>UREA</li>
+</ul>
+<hr>
+<h1>SURFACE AREA TO VOLUME RATIO(SA/V)</h1>
+<br>
+Unicellular organisms, because of their small size, can transport all the materials through diffusion and osmosis. In single-celled organisms such as protists, and small multicellular organisms, essential molecules will move to where they're needed by simple diffusion. Diffusion is limited by the surface area to volume ratio of the organism. Most unicellular organisms like Amoeba, paramecium have large surface area to volume ratio so diffusion would be sufficient and fast to provide the necessary molecules. Most multicellular plants and animals have too small a surface area to volume ratio so diffusion would be too slow to provide the necessary molecules.
+<hr>
+Therefore the larger the animal, the smaller the surface area to volume ratio
+<br>
+Therefore the smaller the animal, the larger the surface area to volume ratio
+<hr>
+Unicellular organisms, because of their small size, can transport all the materials through diffusion and osmosis. In single-celled organisms such as protists, and small multicellular organisms, essential molecules will move to where they're needed by simple diffusion. Diffusion is only efficient over distances of 1mm or less. It becomes less efficient or slow with increasing distance. Diffusion is limited by the surface area to volume ratio of the organism. Most unicellular organisms like Amoeba, paramecium tend to increase their surface area to volume ratio so diffusion would be sufficient and fast to provide the necessary molecules. Small multicellular organisms like Hydra and flatworms also have cells that are compact and very near one another due to small body size and this arrangement provide a large surface area to volume ratio. Therefore, diffusion would be sufficient to provide the necessary molecules. Larger multicellular plants and animals have too small surface area to volume ratio so diffusion would be too slow and inefficient to provide the necessary molecules. Therefore, multicellular animals require a system to transport nutrients and waste products around the organism’s body.
+<hr>
+<h1>Transport System in Higher Organisms</h1>
+<br>
+Human beings have an efficient system to transport substances from organs to the cells that use them.From the liver, blood passes into the hepatic veins, which conduct blood toward the heart. For example, animals with higher metabolic rates generally have more complex circulatory systems and more powerful hearts than animals with lower metabolic rates. Similarly, within an animal, the complexity and number of blood vessels in a particular organ correlate with that organ's metabolic requirements.
+<hr>
+<h1>The Blood Vessels</h1>
+<br>
+<ul>
+    <li>ARTERIES</li>
+    <li>VEINS</li>
+    <li>CAPILLARIES</li>
+</ul>

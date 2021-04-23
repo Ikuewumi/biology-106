@@ -1,0 +1,67 @@
+Unless you have an upset stomach, digestion usually happens without you even noticing. You consciously chew up your food, but most of the digestive process takes place without your conscious awareness. Long after you put down your fork, food is still passing through your stomach and small intestine. It may take over a day for a meal to pass all the way through your digestive system. Nutrients in the foods you eat are needed by the cells of your body. How do the nutrients in foods get to your body cells? What organs and processes break down the foods and make the nutrients available to cells? The organs are those of the digestive system. The processes are digestion and absorption. The digestive system is the body system that breaks down food and absorbs nutrients. It also gets rid of solid food waste. The main organs of the digestive system are: <h1>Mouth</h1>, <h1>Esophagus</h1>, <h1>Stomach</h1>, <h1>Small Intestine</h1>, <h1>Large Intestine</h1>.<hr>Digestion is the process of breaking down food into nutrients. There are two types of digestion, mechanical and chemical. In mechanical digestion, large chunks of food are broken down into small pieces. Mechanical digestion begins in the mouth and involves physical processes, such as chewing. In chemical digestion, large food molecules are broken down into small nutrient molecules. This is a chemical process which also begins in the mouth as saliva begins to break down food.<hr>Absorption is the process that allows substances you eat to be taken up by the blood. After food is broken down into small nutrient molecules, the molecules are absorbed by the blood. After absorption, the nutrient molecules travel in the bloodstream to cells throughout the body.<hr>Some substances in food cannot be broken down into nutrients. They remain behind in the digestive system after the nutrients are absorbed. Any substances in food that cannot be digested and absorbed pass out of the body as solid waste. The process of passing solid food waste out of the body through the <h1>anus</h1> is called elimination.<hr><h1>enzymes that help the digestive system</h1><hr><div class="table">
+        <div class="row">
+            <div class="col">ORGAN</div>
+            <div class="col">ENZYME</div>
+            <div class="col">ACTION</div>
+        </div>
+        <div class="row">
+            <div class="col">Mouth</div>
+            <div class="col">Ptyalin</div>
+            <div class="col">Starch to Monosaccharides</div>
+        </div>
+        <div class="row">
+            <div class="col">Stomach</div>
+            <div class="col">
+                <ul>
+                    <li>Pepsin</li>
+                    <li>Rennin / Usually for children</li>
+                </ul>
+            </div>
+            <div class="col">
+                <ul>
+                    <li>Protein to Peptones</li>
+                    <li>Caseinogen to Casein</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">Small Intestine (Pancreatic Juices)</div>
+            <div class="col">
+                <ul>
+                    <li>Amylopsin</li>
+                    <li>Trypsin</li>
+                    <li>Lipase</li>
+                </ul>
+            </div>
+            <div class="col">
+                <ul>
+                    <li>Starch to Maltose</li>
+                    <li>Proteins to Polypeptides</li>
+                    <li>Fatty Acids to Glycerol</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">Small Intestine</div>
+            <div class="col">
+                <ul>
+                    <li>Maltase</li>
+                    <li>Lactase</li>
+                    <li>Sucrase</li>
+                    <li>Erepsin</li>
+                    <li>Lipase</li>
+                </ul>
+            </div>
+            <div class="col">
+                <ul>
+                    <li>Maltose to Glucose and glucose</li>
+                    <li>Lactose to Glucose and galactose</li>
+                    <li>Sucrose to Glucose and fructose</li>
+                    <li>Polypeptides to amino acids</li>
+                    <li>Fats to glycerol and fatty acids</li>
+                </ul>
+            </div>
+            
+        </div>
+        
+    </div>
